@@ -1,11 +1,11 @@
 # HackerRank Day 0
 
-##### Objective
+### Objective
 
 In this challenge, we review some basic concepts that will get you started with this series. 
 You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank. 
 
-##### Task
+### Task
 
 To complete this challenge, you must save a line of input from stdin to a variable and print the value of your
 variable 
