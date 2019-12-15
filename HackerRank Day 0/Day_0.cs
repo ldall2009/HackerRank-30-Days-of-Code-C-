@@ -20,7 +20,7 @@ namespace HackerRank_Day_0
             // Read a full line of input from stdin (cin) and save it to our variable, inputString.
             inputString = Console.ReadLine();
 
-            // Line of code that prints the contents of input_string to stdout.
+            // Line of code that prints the contents of inputString to stdout.
             Console.WriteLine("The string you have entered is: " + inputString);
         }
     }
