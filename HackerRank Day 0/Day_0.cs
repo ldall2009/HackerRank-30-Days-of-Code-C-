@@ -17,7 +17,7 @@ namespace HackerRank_Day_0
             // Declare a variable named 'inputString' to hold our input.
             String inputString;
 
-            // Read a full line of input from stdin (cin) and save it to our variable, input_string.
+            // Read a full line of input from stdin (cin) and save it to our variable, inputString.
             inputString = Console.ReadLine();
 
             // Line of code that prints the contents of input_string to stdout.
