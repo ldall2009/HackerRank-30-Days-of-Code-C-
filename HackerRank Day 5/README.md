@@ -7,7 +7,7 @@ In this challenge, we're going to use loops to help us do some simple math.
 ### Task
 
 Given an integer, n, print its first 10 multiples. 
-Each multiple n * i (where i <= i <= 10) should be printed on a new 
+Each multiple n * i (where 1 <= i <= 10) should be printed on a new 
 line in the form: `n x i = result`.
 
 ### Input Format
