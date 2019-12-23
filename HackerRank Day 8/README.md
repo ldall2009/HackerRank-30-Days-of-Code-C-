@@ -29,8 +29,7 @@ unknown number of lines of queries. Each line (query) contains
 a name to look up, and you must continue reading lines until 
 there is no more input.
 
-##### Note: Names consist of lowercase English 
-alphabetic letters and are first names only.
+##### Note: Names consist of lowercase English alphabetic letters and are first names only.
 
 ### Constraints
 
