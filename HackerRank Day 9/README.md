@@ -4,7 +4,7 @@
 
 Today, we're learning and practicing an algorithmic concept called Recursion.
 
-[image here]
+![](https://github.com/ldall2009/HackerRank-30-Days-of-Code-C-/blob/master/HackerRank%20Day%209/factorial.png?raw=true)
 
 ### Task
 
