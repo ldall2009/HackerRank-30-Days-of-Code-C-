@@ -8,12 +8,12 @@ Today, we're building on our knowledge of Arrays by adding another dimension.
 
 Given a 6x6 2D array, A:
 
-[image]
+![](https://github.com/ldall2009/HackerRank-30-Days-of-Code-C-/blob/master/HackerRank%20Day%2011/Array.png?raw=true)
 
 We define an hourglass in A to be a subset of values with indices falling
 in this pattern in A's graphical representation:
 
-[image]
+![](https://github.com/ldall2009/HackerRank-30-Days-of-Code-C-/blob/master/HackerRank%20Day%2011/Hourglass.png?raw=true)
 
 There are 16 hourglasses in A, and an hourglass sum is the sum of an
 hourglass' values
