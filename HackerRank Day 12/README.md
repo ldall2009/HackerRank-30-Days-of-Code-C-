@@ -21,7 +21,7 @@ Complete the Student Class by writing the following:
 - A char calculate() method that calculates a Student object's average and 
 returns the grade character representative of their calculated average:
 
-![](?raw=true)
+![](https://github.com/ldall2009/HackerRank-30-Days-of-Code-C-/blob/master/HackerRank%20Day%2012/grading%20scale.png?raw=true)
 
 ### Input Format
 
