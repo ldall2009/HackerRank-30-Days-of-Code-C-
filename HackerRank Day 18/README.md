@@ -20,12 +20,12 @@ character until our containers are empty (a non-match means s isn't a palindrome
 Write the following declarations and implementations:
 
 - Two instance variables: one for your stack, and one for your queue.
-- A void pushCharacter(char ch) method that pushes a character onto a stack.
-- A void enqueueCharacter(char ch) method that enqueues a character in 
+- A `void pushCharacter(char ch)` method that pushes a character onto a stack.
+- A `void enqueueCharacter(char ch)` method that enqueues a character in 
 the queue instance variable.
-- A char popCharacter() method that pops and returns the character 
+- A `char popCharacter()` method that pops and returns the character 
 at the top of the stack instance variable.
-- A char dequeueCharacter() method that dequeues and returns the first 
+- A `char dequeueCharacter()` method that dequeues and returns the first 
 character in the queue instance variable.
 
 ### Input Format
