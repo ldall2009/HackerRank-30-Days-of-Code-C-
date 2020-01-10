@@ -12,15 +12,15 @@ dates for a library book, create a program that calculates the fine
 (if any). The fee structure is as follows:
 
 - If the book is returned on or before the expected return date, no fine 
-will be charged (i.e.: fine = 0).
+will be charged (i.e.: `fine = 0`).
 - If the book is returned after the expected return day but still within the 
 same calendar month and year as the expected return date, 
-fine = 15 * (the number of days late).
+`fine = 15 * (the number of days late)`.
 - If the book is returned after the expected return month but still within the 
 same calendar year as the expected return date, the 
-fine = 500 * (the number of months late).
+`fine = 500 * (the number of months late)`.
 - If the book is returned after the calendar year in which it was expected, 
-there is a fixed fine of 10000.
+there is a `fixed fine of 10000`.
 
 ### Input Format
 
