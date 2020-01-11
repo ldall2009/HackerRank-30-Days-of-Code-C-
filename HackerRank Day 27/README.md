@@ -1,3 +1,7 @@
+ ```diff
+- THIS DAY DID NOT HAVE C# AS AN OPTION ON HACKERRANK, AS SUCH I USED C++
+```
+
 # HackerRank Day 27
 
 This problem is all about unit testing.
