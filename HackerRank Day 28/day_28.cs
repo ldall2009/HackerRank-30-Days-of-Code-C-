@@ -21,8 +21,7 @@ namespace HackerRank_Day_28
             int N = Convert.ToInt32(Console.ReadLine());
 
             List<string> names = new List<string>();
-            string emailSignature = "@gmail.com";
-            Regex expression = new Regex(emailSignature);
+            Regex expression = new Regex("[a-z]+@gmail\\.com$");
 
             for (int NItr = 0; NItr < N; NItr++) {
 
