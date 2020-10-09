@@ -9,9 +9,9 @@ with a README specifying what the coding problem was for that day.
 This code was written in the C# language in Microsoft's Visual Studio 2019 IDE.  The solutions I give will be unit tested
 by tests that are provided by HackerRank.
 
-***NOTE:** The first day is Day 0, and the last day is Day 29 (making it 30 total days).*
+- ***NOTE:** The first day is Day 0, and the last day is Day 29 (making it 30 total days).*
 
-***NOTE:** Day 27 did not offer C# as a coding option on HackerRank's website.  As such, for that day I decided to program that coding challenge in C++.*
+- ***NOTE:** Day 27 did not offer C# as a coding option on HackerRank's website.  As such, for that day I decided to program that coding challenge in C++.*
 
 ### Concluding Thoughts 
 
